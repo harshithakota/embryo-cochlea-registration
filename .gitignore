@@ -1,0 +1,8 @@
+data/
+results_stable_clean/
+*.nii.gz
+*.tif
+*.csv
+venv/
+__pycache__/
+he_maldi_reg/
